@@ -1,0 +1,35 @@
+html {
+    font-size: 10px;
+    background-color: #FFe8b8;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+li a {
+    font-size: 3rem;
+    padding-left: 3rem;
+}
+
+#headerall {
+    background-color: #0327d2; 
+}
+
+header img {
+    padding-top: 2% !important;
+}
+
+#headerall li a {
+    color: white;
+}
+
+#righthome {
+    position: absolute;
+    background-color: black;
+    width: 100px;
+    height: 1000px;
+    margin-left: 1120px;
+    margin-bottom: 250px;
+}
